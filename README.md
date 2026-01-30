@@ -28,7 +28,7 @@ This project is a web application designed to provide gym plans and fitness reso
 
 ## Getting Started
 1. Clone the repository.
-2. Open `homeCopy.html` in a web browser to view the application.
+2. Open `home.html` in a web browser to view the application.
 3. Modify the files in the `sample` directory for testing purposes.
 
 ## License

@@ -4,7 +4,7 @@
 This project is a web application designed to provide gym plans and fitness resources. It includes a responsive design using Bootstrap and custom styles.
 
 ## File Structure
-- **homeCopy.html**: Main HTML file for the gym plans.
+- **home.html**: Main HTML file for the gym plans.
 - **script.js**: JavaScript file for interactive features, including theme toggling.
 - **style.css**: Main stylesheet for the project.
 - **src/icons/**: Contains various icon images used in the project.

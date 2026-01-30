@@ -1,0 +1,6 @@
+<svg width="34" height="22" viewBox="0 0 34 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="move right">
+<ellipse id="Ellipse 1" cx="10.5" cy="10.9038" rx="10.5" ry="10.9038" fill="#FF0000"/>
+<path id="Arrow 1" d="M11 9.92308C10.1716 9.92308 9.5 10.5947 9.5 11.4231C9.5 12.2515 10.1716 12.9231 11 12.9231V9.92308ZM33.6603 11.4231L25 2.76283L16.3397 11.4231L25 20.0833L33.6603 11.4231ZM11 12.9231H25V9.92308H11V12.9231Z" fill="black"/>
+</g>
+</svg>

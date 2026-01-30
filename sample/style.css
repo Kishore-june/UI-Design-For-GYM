@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+#mylogo {
+  color: white;
+}
+
+#navbar {
+  background-image: url(figma/Rectangle\ 10.png);
+  background-position-x: center;
+  background-repeat: no-repeat;
+  height: 335px;
+  flex-shrink: 0;
+}
+
+#pro {
+  background-color: red;
+  color: white;
+  height: 32px;
+  width: auto;
+}
+
+#pro_text {
+  text-transform: uppercase;
+}
+
+#nav_text {
+  padding-left: 50%;
+  padding-bottom: 20%;
+  word-spacing: 10px;
+  color: white;
+  font-weight: 700;
+  line-height: 20%;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+#float_box {
+  position: absolute;
+  width: 100px;
+  height: 58px;
+  align-self: center;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -125px;
+  box-shadow: -10px 0px 130px rgb(255, 0, 68);
+}
+
+#box {
+  box-shadow: 150px 0px 130px red;
+}
+
+#diet {
+  -moz-text-align-last: center;
+       text-align-last: center;
+  font-size: 15px;
+}
+
+#margin_red {
+  background-color: red;
+  width: 5px;
+  height: 30px;
+}
+
+#plans-icon {
+  margin-left: 22%;
+  width: 199px;
+  height: 211px;
+  overflow: hidden;
+}
+
+#words {
+  color: red;
+}
+
+#caution {
+  margin: 10% 2%;
+}
+
+#caution_para {
+  font-family: "Inter", sans-serif;
+}
+
+footer {
+  padding-top: 2%;
+  background-color: black;
+}
+
+#request {
+  color: white;
+  letter-spacing: 1px;
+  margin-bottom: 0;
+}
+
+#red {
+  color: red;
+}
+
+#submit {
+  background-color: red;
+  color: white;
+  margin-left: 1%;
+  text-align: center;
+}
+
+#icons {
+  width: auto;
+  margin-left: 50px;
+}
+
+#text_size {
+  font-size: xx-small;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
